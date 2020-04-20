@@ -1,4 +1,4 @@
-import React from "react"; 
+import React, {useState, useEffect} from "react"; 
 import "./cb.css";  
 
 //Made the UI

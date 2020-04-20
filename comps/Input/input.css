@@ -1,0 +1,6 @@
+.input_cont input {
+    padding: 10px;
+    border-radius: 5px; 
+    border: 1px solid #AAA;
+    margin-right: 5px;
+}
